@@ -1,4 +1,4 @@
-# Forecasting International Visitors Spending in London by Python 
+# Forecasting International Visitors Spending in London using RNN and Time-series
 ###### Data Analytics
 Authors:
 Chia-Yu Lee, Latifah Binrashed, Yyi Kai Teoh
